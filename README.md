@@ -23,4 +23,4 @@ To watch the video on the screen with sound on Google Hangouts so everyone in th
 - We have set up Google Hangouts to work with sound when watching videos.
 - We have agreed to be open-minded about how we will create API endpoints for the app depending on how the tutorial goes. The available options are http://deployd.com/ and a Play app. It would be great to see an implementation of 1 or 2 API endpoints using Scala with commentary.
 
-Next time: Watch as much as we can and note the merits and demerits of the approach used in this course. 
+**Next time:** Watch and implement as much as we can and note the merits and demerits of the approach used in this course. 
