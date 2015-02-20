@@ -24,3 +24,12 @@ To watch the video on the screen with sound on Google Hangouts so everyone in th
 - We have agreed to be open-minded about how we will create API endpoints for the app depending on how the tutorial goes. The available options are http://deployd.com/ and a Play app. It would be great to see an implementation of 1 or 2 API endpoints using Scala with commentary.
 
 **Next time:** Watch and implement as much as we can and note the merits and demerits of the approach used in this course. 
+
+
+#Day 2 - 20 Feb 2015
+- We have watched Episode 4 where the focus was mainly on the app structure and how to avoid spaghetti code when writing Marionette apps.
+The main take-away is this:
+
+**DON'T DO**
+
+**DO**
