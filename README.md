@@ -31,5 +31,7 @@ To watch the video on the screen with sound on Google Hangouts so everyone in th
 The main take-away is this:
 
 **DON'T DO**
+See diagram at 44:25
 
 **DO**
+See diagram at 43:58
