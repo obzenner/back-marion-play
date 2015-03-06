@@ -19,16 +19,5 @@ To watch the video on the screen with sound on Google Hangouts so everyone in th
 
 ##Progress
 
-#Day 1 - 13 Feb 2015
-- We have set up Google Hangouts to work with sound when watching videos.
-- We have agreed to be open-minded about how we will create API endpoints for the app depending on how the tutorial goes. The available options are http://deployd.com/ and a Play app. It would be great to see an implementation of 1 or 2 API endpoints using Scala with commentary.
-
-**Next time:** Watch and implement as much as we can and note the merits and demerits of the approach used in this course. 
-
-
-#Day 2 - 20 Feb 2015
-- We have watched Episode 4 where the focus was mainly on the app structure and how to avoid spaghetti code when writing Marionette apps.
-
-#Day 3 - 6 March 2015
-- Episode 5 covers the way to structure the app, shows how to use abstract models and collections and how to use your own template engine with Marionette.
+See: https://docs.google.com/a/gawker.com/document/d/1S4Tzu96wUfyzBZUfE4MyMFv4zCRzdPa-RlKmStD7uok/edit?usp=sharing
 
