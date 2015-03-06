@@ -29,20 +29,6 @@ To watch the video on the screen with sound on Google Hangouts so everyone in th
 #Day 2 - 20 Feb 2015
 - We have watched Episode 4 where the focus was mainly on the app structure and how to avoid spaghetti code when writing Marionette apps.
 
-The main take-away is this:
-
-**DON'T DO**
-
-See diagram at 44:25
-
-**DO**
-![image App structure]
-(https://lh5.googleusercontent.com/2kXx2R4kT6Wsy3cRoc5MbyHRfNCTLFvZMshOW1STTyHKTmRS6dDU40iq1NE-nmPLxkLEE53RemM=w2498-h1150)
-See diagram at 43:58
-
 #Day 3 - 6 March 2015
-- Episode 5 covers the way to structure the app, shows how to use abstract models and collections and how to use your own template engine with Marionette. All the marionette and other lib overrides are stored in a `config` folder within `javascripts`
+- Episode 5 covers the way to structure the app, shows how to use abstract models and collections and how to use your own template engine with Marionette.
 
-App structure as of this moment looks like this:
-![image app structure]
-(https://lh3.googleusercontent.com/oAX21P9kVJ6CeEdlwwVZX1mVloW3QS-VWrmdRYfnYvYc3QvuMuJGaN2ti0mwmOtyTZRg_5sZVJc=w2498-h1150)
