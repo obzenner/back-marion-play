@@ -36,5 +36,13 @@ The main take-away is this:
 See diagram at 44:25
 
 **DO**
-
+![image App structure]
+(https://lh5.googleusercontent.com/2kXx2R4kT6Wsy3cRoc5MbyHRfNCTLFvZMshOW1STTyHKTmRS6dDU40iq1NE-nmPLxkLEE53RemM=w2498-h1150)
 See diagram at 43:58
+
+#Day 3 - 6 March 2015
+- Episode 5 covers the way to structure the app, shows how to use abstract models and collections and how to use your own template engine with Marionette. All the marionette and other lib overrides are stored in a `config` folder within `javascripts`
+
+App structure as of this moment looks like this:
+![image app structure]
+(https://lh3.googleusercontent.com/oAX21P9kVJ6CeEdlwwVZX1mVloW3QS-VWrmdRYfnYvYc3QvuMuJGaN2ti0mwmOtyTZRg_5sZVJc=w2498-h1150)
