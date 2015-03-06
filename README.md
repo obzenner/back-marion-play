@@ -1,5 +1,5 @@
 **Tutorial videos:** 
-https://drive.google.com/a/kinja.com/?tab=mo#folders/0B_CBiuTeE4dyNXJNMGFJODd5WG8
+https://drive.google.com/a/kinja.com/?tab=mo#folders/0B_CBiuTeE4dyNXJNMGFJODd5WG8 (Private. Please get yours here http://www.backbonerails.com/series)
 ##Tech info to watch videos in Google Hangouts with sound
 To watch the video on the screen with sound on Google Hangouts so everyone in the call can hear the sound, you should:
 - Download https://code.google.com/p/soundflower/downloads/detail?name=Soundflower-1.6.6b.dmg&can=2&q=
